@@ -70,3 +70,11 @@ For the lessons we will stick with Travis ans Appveyor because it is perfectly i
 
 Of course it is possible to support Linux/OSX and Windows
 
+### Examples
+
+Open one language folder in the examples section.
+
+	$ git checkout chapter_1
+
+
+

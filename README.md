@@ -6,4 +6,16 @@ Continuous Integration (CI)
 Book about continuous-integration
 [Click me to read or download at GitBook](https://www.gitbook.com/book/andreasaugustin/continuous-integration/details)
 
+### Examples
+
+The examples are a git submodule in the related GitHub repository. For reading the examples related to the different chapters:
+
+    $ git submodule init
+    $ git submodule update
+
+Open the related language folder you like to read. (n stands for the related chapter name)
+
+    $ git checkout chapter_<n>
+
+
 

@@ -1,0 +1,3 @@
+[submodule "examples/testing-demos-csharp_mono"]
+	path = examples/testing-demos-csharp_mono
+	url = git@github.com:AndreasAugustin/testing-demos-csharp_mono.git
