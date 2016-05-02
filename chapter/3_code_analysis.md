@@ -17,7 +17,11 @@ There you can also find some settings for IDEs. For verifying that every develop
 
 Those lint tools create a xml file with some information about vilations. Often those can be pusblished in a nice human readable form with CI Server. Also most IDEs are able to give validation information at development time.
 
+Sadly those tools are not supported by appveyor and travis (yet).
+For JAVA; C/Cpp https://docs.travis-ci.com/user/coverity-scan/ https://scan.coverity.com
+
 TODO(augustin) add some lint tools integrated with travis/appvayor
+
 
 ### Dependency Versioning
 
