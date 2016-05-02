@@ -67,6 +67,11 @@ For the lessons we will stick with Travis ans Appveyor because it is perfectly i
   	- Add permissions at [Appveyor](https://ci.appveyor.com/) to read your repository.
   	- Locally at your repository add a appveyor.yml to the base folder.
 - Add badges about the building status to your README.md
+- Add to gitter (not in examples but you can find a gitter badge in this repository). So the community can chat.
+	- https://gitter.im/
+	- Log in with gitHub credentials
+	- Add repository
+	- Add badge to README.md
 
 Of course it is possible to support Linux/OSX and Windows
 
