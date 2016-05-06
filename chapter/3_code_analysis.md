@@ -28,6 +28,10 @@ TODO(augustin) add some lint tools integrated with travis/appvayor
 It is often a good idea to keep the dependencies up to date (if possible). There are some version checker out there, which can keep track about the versions of your project. One example is VersionEye
 https://www.versioneye.com/
 
+### Code review
+
+TODO(augustin)
+
 ### Get your hands dirty
 
 - Add a lint tool to your project and let it run TODO(augustin) think about lint tools
