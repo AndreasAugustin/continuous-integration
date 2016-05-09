@@ -18,9 +18,7 @@ There you can also find some settings for IDEs. For verifying that every develop
 Those lint tools create a xml file with some information about vilations. Often those can be pusblished in a nice human readable form with CI Server. Also most IDEs are able to give validation information at development time.
 
 Sadly those tools are not supported by appveyor and travis (yet).
-For JAVA; C/Cpp https://docs.travis-ci.com/user/coverity-scan/ https://scan.coverity.com
-
-TODO(augustin) add some lint tools integrated with travis/appvayor
+Most of the lint tools can be used with CodeClimate https://codeclimate.com/ which supports most of the above mentioned lint tools. It is also configurable with a file in your repo and you can check your code coverage.
 
 
 ### Dependency Versioning
@@ -30,12 +28,14 @@ https://www.versioneye.com/
 
 ### Code review
 
-TODO(augustin)
+Also for developing in a team, other developers should see your code for discussion. One option is ReviewNinja
+https://app.review.ninja/.
 
 ### Get your hands dirty
 
-- Add a lint tool to your project and let it run TODO(augustin) think about lint tools
+- Add your project to CodeClimate and a badge to your README.md. If you like you can add a configure file.
 - Add your project to versioneye and a badge to your README.md
+- Add your project to ReviewNinja
 
 
 ### Examples

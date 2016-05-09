@@ -5,9 +5,11 @@ Therefore you should choose a GIT workflow. A intorduction for different workflo
 
 Of course it is possible to automate the deploy and to automatically use semantic versioning.
 
-TODO(augustin) 
+### Get your hands dirty
 
+- Decide for a Git Workflow
+- Check which tools are there to integrate your shipping with gitHub
 
+### Examples
 
-
-
+- No examples for this chapter

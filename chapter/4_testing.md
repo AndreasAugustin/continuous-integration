@@ -51,6 +51,7 @@ There are some different kinds of testing
 | Ruby        |                        |
 
 ##### Mocking
+![](../images/testing_with_di_containers.png "Mocking" "width:300px;float:right;padding-left:10px;")
 
 | language    | mocking framework |
 |-------------|-------------------|
@@ -72,9 +73,8 @@ There is a standard called xUnit for testing. The x stands for different program
 
 ### Get your hands dirty
 
-- TODO(augustin) add testing srver (reports)
 - Start implementing some code in your project with TDD principles.
-- Add running those tests to your .travis.yml and/or appveyor.yml.
+- Add those tests to your .travis.yml and/or appveyor.yml.
 
 
 ### Examples
